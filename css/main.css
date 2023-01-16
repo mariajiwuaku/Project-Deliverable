@@ -82,6 +82,12 @@
     
   
   }
+header{
+    position: relative;
+    height: 100px;
+    text-align: right;
+
+  }
   
   section{
     position: relative;
